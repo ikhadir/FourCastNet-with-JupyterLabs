@@ -1,5 +1,9 @@
 ## SDSU FourCastNet 
 
+### Getting started tutorial
+
+A tutorial for quickly leveraging FourCastNetv2 can be found at this link: https://www.youtube.com/watch?v=tTkhfe82_I4
+
 ### Step 1: Get Access to Nautlis Portal
 
 Send in a request to SDSU Research Software Engineer Team to get approval to work on this project. Tutorials for getting access are found in SDSU's Software Factory page: https://sdsu-research-ci.github.io/softwarefactory/gettingaccess.
